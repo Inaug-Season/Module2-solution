@@ -21,8 +21,8 @@ section {
 
 section>h2 {
     float: right;
-    border-bottom: 1px solid black;
-    border-left: 1px solid black;
+    border-bottom: solid black;
+    border-left: solid black;
     margin: 0;
     width: 230px;
     text-align: center;
@@ -42,7 +42,7 @@ section.Petty>h2 {
     color: #ffffff;
 }
 
-section.>h2 {
+section.Wavy>h2 {
     background-color: #e5d198;
 }
 
